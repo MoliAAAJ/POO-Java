@@ -1,2 +1,2 @@
-# Programacion-Orientada-a-Objetos
+# ProgramacionOrientadaAObjetos
 Trabajos Practicos de la cursada
