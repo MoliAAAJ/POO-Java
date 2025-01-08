@@ -1,6 +1,7 @@
 # Programación Orientada a Objetos con Java
 
-Este repositorio contiene los trabajos prácticos realizados durante la cursada de **Programación Orientada a Objetos** en la Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB). Cada proyecto refleja la aplicación de conceptos clave de POO en Java. Profesor de la cátedra: [@AguadoMatias](https://github.com/AguadoMatias)
+Este repositorio contiene los trabajos prácticos realizados durante la cursada de **Programación Orientada a Objetos** en la Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB). Cada proyecto refleja la aplicación de conceptos clave de POO en Java.
+- ## Profesor de la cátedra:## [@AguadoMatias](https://github.com/AguadoMatias)
 
 ## Contenidos
 
@@ -53,9 +54,9 @@ Este repositorio contiene los trabajos prácticos realizados durante la cursada 
 - **Diseño orientado a objetos:** Aplicación de principios de POO para crear código modular y reutilizable.
 - **Manejo de excepciones:** Gestión de errores y validaciones en aplicaciones Java.
 
-##Contacto
+## Contacto
 
 **Si tienes preguntas o sugerencias sobre estos proyectos, no dudes en contactarme:**
 
-**Email:** moliaaaj@gmail.com
-**LinkedIn:** www.linkedin.com/in/jose-luis-moliterno
+- **Email:** moliaaaj@gmail.com
+- **LinkedIn:** www.linkedin.com/in/jose-luis-moliterno
