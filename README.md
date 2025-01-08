@@ -1,7 +1,7 @@
 # Programación Orientada a Objetos con Java
 
 Este repositorio contiene los trabajos prácticos realizados durante la cursada de **Programación Orientada a Objetos** en la Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB). Cada proyecto refleja la aplicación de conceptos clave de POO en Java.
-- ## Profesor de la cátedra:## [@AguadoMatias](https://github.com/AguadoMatias)
+- Profesor de la cátedra: [@AguadoMatias](https://github.com/AguadoMatias)
 
 ## Contenidos
 
